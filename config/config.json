@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "exampledb",
-    "host": "localhost",
-    "dialect": "mysql"
+    "username": "sql3331101",
+    "password": "2vhAqw5gTU",
+    "database": "sql3331101",
+    "host": "http://sql3.freesqldatabase.com/",
+    "dialect": "mysql",
+    "port": 3306
   },
   "test": {
     "username": "root",
