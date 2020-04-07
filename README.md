@@ -11,6 +11,10 @@
  
  * `express`
  * `path`
+ * `mysql2`
+ * `sequelize`
+
+## ORM package
  * `sequelize`
 
 ## Node commands
@@ -24,6 +28,7 @@
   * `Node.js`
   * `JawsDB`
   * `MySql`
+  * `TravisCli`
 
   ## Database
   
